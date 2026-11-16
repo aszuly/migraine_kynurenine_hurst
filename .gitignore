@@ -1,0 +1,18 @@
+# Identifying or clinical data: never commit
+private/
+data/participants.csv
+results/fig_subjects.csv
+
+# Written by step 3 and read by step 4
+results/step3_workspace.mat
+
+# Third-party toolboxes (see toolboxes/README.md)
+toolboxes/*
+!toolboxes/README.md
+
+# System and editor files
+__pycache__/
+*.pyc
+*.asv
+.Rhistory
+.DS_Store

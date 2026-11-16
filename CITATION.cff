@@ -1,0 +1,59 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the article below."
+title: "Plasma L-kynurenine and resting-state fMRI Hurst exponents in episodic migraine: analysis code and data"
+type: software
+authors:
+  - given-names: Attila
+    family-names: Szuly
+    email: szuly.attila.krisztian@szte.hu
+  - given-names: Bernadett
+    family-names: Tuka
+  - given-names: Nikoletta
+    family-names: Szabó
+  - given-names: Péter
+    family-names: Faragó
+  - given-names: Máté
+    family-names: Csomós
+  - given-names: Krisztián
+    family-names: Kocsis
+  - given-names: Tamás
+    family-names: Körtési
+  - given-names: László
+    family-names: Vécsei
+  - given-names: Joana B.
+    family-names: Pereira
+  - given-names: Dániel
+    family-names: Veréb
+  - given-names: Zsigmond Tamás
+    family-names: Kincses
+license:
+  - MIT
+  - CC-BY-4.0
+# To add once known: doi (from Zenodo), and journal, year, volume and doi of
+# the article under preferred-citation.
+preferred-citation:
+  type: article
+  title: "Plasma L-kynurenine levels are associated with resting-state cortical dynamics in episodic migraine"
+  authors:
+    - given-names: Attila
+      family-names: Szuly
+    - given-names: Bernadett
+      family-names: Tuka
+    - given-names: Nikoletta
+      family-names: Szabó
+    - given-names: Péter
+      family-names: Faragó
+    - given-names: Máté
+      family-names: Csomós
+    - given-names: Krisztián
+      family-names: Kocsis
+    - given-names: Tamás
+      family-names: Körtési
+    - given-names: László
+      family-names: Vécsei
+    - given-names: Joana B.
+      family-names: Pereira
+    - given-names: Dániel
+      family-names: Veréb
+    - given-names: Zsigmond Tamás
+      family-names: Kincses
