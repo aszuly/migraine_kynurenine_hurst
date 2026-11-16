@@ -6,6 +6,8 @@ Analysis code and coded data for:
 
 The scripts in this repository produce the numbers, figures (Figures 1–3, S1) and supplementary tables (Tables S1–S8) of the article. The random seed is 20261105.
 
+Archived on Zenodo: version 1.0.0, used for the article, https://doi.org/10.5281/zenodo.24278680; all versions, https://doi.org/10.5281/zenodo.24278679.
+
 ## Contents
 
 | Path | Content |

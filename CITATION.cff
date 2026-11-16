@@ -36,8 +36,14 @@ abstract: >-
 # Code: MIT (LICENSE). Data: CC BY 4.0 (LICENSE-DATA.md). Zenodo reads only one
 # licence from this file.
 license: MIT
-# To add once known: doi (from Zenodo), and journal, year, volume and doi of
-# the article under preferred-citation.
+doi: 10.5281/zenodo.24278679
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.24278680
+    description: Version 1.0.0, used for the article
+repository-code: "https://github.com/aszuly/migraine_kynurenine_hurst"
+# To add once known: journal, year, volume and doi of the article under
+# preferred-citation.
 preferred-citation:
   type: article
   title: "Plasma L-kynurenine levels are associated with resting-state cortical dynamics in episodic migraine"
