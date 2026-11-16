@@ -26,9 +26,16 @@ authors:
     family-names: Veréb
   - given-names: Zsigmond Tamás
     family-names: Kincses
-license:
-  - MIT
-  - CC-BY-4.0
+abstract: >-
+  Analysis code and coded data for the article "Plasma L-kynurenine levels are
+  associated with resting-state cortical dynamics in episodic migraine". The
+  repository holds the parcel time series of the 21 participants (Schaefer-100
+  atlas), the scripts that denoise them, estimate the Hurst exponents and run
+  the statistical analyses, and the resulting tables and figures. The clinical
+  table needed for the statistics cannot be shared; see README.md.
+# Code: MIT (LICENSE). Data: CC BY 4.0 (LICENSE-DATA.md). Zenodo reads only one
+# licence from this file.
+license: MIT
 # To add once known: doi (from Zenodo), and journal, year, volume and doi of
 # the article under preferred-citation.
 preferred-citation:
