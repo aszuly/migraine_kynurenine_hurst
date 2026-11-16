@@ -2,7 +2,7 @@
 
 Analysis code and coded data for:
 
-> Szuly A, Tuka B, Szabó N, Faragó P, Csomós M, Kocsis K, Körtési T, Vécsei L, Pereira JB, Veréb D, Kincses ZT. Plasma L-kynurenine levels are associated with resting-state cortical dynamics in episodic migraine. **[Journal, year, DOI to be added]**
+> Szuly A, Tuka B, Szabó N, Faragó P, Csomós M, Kocsis K, Körtési T, Vécsei L, Pereira JB, Veréb D, Kincses ZT. Plasma L-kynurenine levels are associated with resting-state cortical dynamics in episodic migraine.
 
 The scripts in this repository produce the numbers, figures (Figures 1–3, S1) and supplementary tables (Tables S1–S8) of the article. The random seed is 20261105.
 
